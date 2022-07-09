@@ -1,0 +1,5 @@
+
+kpython:S116"ORename this field "X_valid" to match the regular expression ^[_a-z][_a-z0-9]*$.(ља€Щшяяяя
+epython:S116	"ORename this field "X_train" to match the regular expression ^[_a-z][_a-z0-9]*$.(Дќ„
+6python:S125<"Remove this commented out code.(ЬЭџэ
+;python:S125R"Remove this commented out code.(їњШуыяяяя
